@@ -9,12 +9,14 @@
   "author": "Shivansh Nema",
   "license": "ISC",
   "dependencies": {
+    "@sendgrid/mail": "^8.1.3",
     "aws-sdk": "^2.1647.0",
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "fs": "^0.0.1-security",
     "http": "^0.0.1-security",
+    "mailgun-js": "^0.22.0",
     "mongoose": "^8.4.3",
     "morgan": "^1.10.0",
     "multer": "^1.4.5-lts.1"
